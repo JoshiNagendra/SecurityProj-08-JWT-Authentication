@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: SecurityProj-06-OAuth-Facebook
+  security:
+    oauth2:
+      client:
+        registration:
+          google:
+            client-id: 1025813014335-rlitmrmbo03vnirs6cufp4sggojfbpqt.apps.googleusercontent.com
+            client-secret: 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
